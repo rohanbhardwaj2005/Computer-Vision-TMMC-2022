@@ -270,9 +270,10 @@ The system outputs:
 3. **Wheel Design**: Works best with standard circular wheels
 4. **Camera Angle**: Requires side view for optimal wheel detection
 5. **Processing Speed**: Real-time performance depends on hardware
+
 ## 📚 References
 
-- YOLOv5 Documentation
-- PyTorch Hub
-- OpenCV Hough Circle Transform
-- COCO Dataset
+- [YOLOv5 Documentation](https://docs.ultralytics.com/)
+- [PyTorch Hub](https://pytorch.org/hub/)
+- [OpenCV Hough Circle Transform](https://docs.opencv.org/master/dd/d1a/group__imgproc__feature.html#ga47849c3be0d0406ad3ca45db65a25d2d)
+- [COCO Dataset](https://cocodataset.org/)
